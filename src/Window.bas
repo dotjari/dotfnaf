@@ -24,7 +24,7 @@ Function sWindow.InitWindow(ByVal lTitle As LPCSTR, _
                     ByVal nHeight As Integer) As Boolean
 
     Function = 0
-Dim As hwnd p=CreateWindowEx(0,WINCLASS, _
+    p=CreateWindowEx(0,WINCLASS, _
                             lTitle, _
                             (WS_OVERLAPPEDWINDOW Or WS_SYSMENU) - (WS_THICKFRAME) Or WS_VISIBLE, _
                             200,200,xres,yres,0,0,0,null)
