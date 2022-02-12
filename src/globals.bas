@@ -2,6 +2,11 @@
 #define GLOBALS_BAS
 #include "windows.bi"
 
+#define SPR_FRONT 0
+#define SPR_BEHIND 1
+#define SPR_LEFT 2
+#define SPR_RIGHT 3
+
 Dim shared as Integer xres=800
 Dim shared as Integer yres=600
 Dim shared as Integer backgroundColour=bgr(0,0,0)
