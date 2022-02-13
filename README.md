@@ -1,6 +1,5 @@
 <center>
   <img src='./res/foxy/foxy.bmp'>
-  <img src='./res/guarda/guarda.bmp'>
 </center>
 A 2D Open Source FNaF fan-game! 
 
