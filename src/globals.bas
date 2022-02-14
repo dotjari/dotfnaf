@@ -7,6 +7,8 @@
 #define SPR_LEFT 2
 #define SPR_RIGHT 3
 
+Dim Shared IsDebug As Boolean = True
+Dim Shared DT As Integer = 60
 Dim shared as Integer xres=800
 Dim shared as Integer yres=600
 Dim shared as Integer backgroundColour=bgr(0,0,0)
