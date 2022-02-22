@@ -7,7 +7,7 @@ A 2D Open Source FNaF fan-game!
 1. [Freebasic](https://www.freebasic.net/) - The BASIC Dialect i use
 2. [WinAPI] - The normal Microsoft Windows Application Programming Interface
 
-# WTF?! FREEBASIC?
+# What The Heck?! FREEBASIC?
 Even though FreeBASIC isn't so popular like languages like Java, VB(.NET) or Python, Freebasic **IS** a very powerful language and has compatibility with C/C++ Libraries. And yes, i will defend it with my life.
 
 ## How to Contribute
